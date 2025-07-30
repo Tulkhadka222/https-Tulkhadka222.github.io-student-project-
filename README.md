@@ -14,7 +14,7 @@ It show my learning journey, including web technologies like semantic HTML, CSS-
 - GitHub Pages deployment
 - Shows real project learning and problem-solving
 
-## 🚀 Technologies Used
+ Technologies Used
 - HTML5
 - CSS3
 - JavaScript
