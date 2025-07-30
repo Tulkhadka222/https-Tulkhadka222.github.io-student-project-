@@ -1,15 +1,16 @@
-# Student Front-End Project
+ Student Front-End Project_ Tul Bahadur Khadka
 
-This is a responsive front-end website built as part of my coursework. It demonstrates key web development skills using HTML, CSS  and JavaScript..
-
-## 🔗 Live Demo
+This is a simple a website built using HTML, CSS, and JavaScript as part of the “Software Development Skills: Front End” course at LUT University.
+It show my learning journey, including web technologies like semantic HTML, CSS-based layouts, JavaScript interactivity, and version control with GitHub.
+ 🔗 Live Demo
 👉 [View the Live Website](https://tulkhadka222.github.io/https-Tulkhadka222.github.io-student-project-/)
-## 💻 Features
-- Responsive layout with CSS Grid and Flexbox
+  Features
+- Responsive layout with CSS Grid 
 - Semantic HTML markup
 - Interactive FAQ section with JavaScript
-- Mobile menu with toggle functionality
+-GitHub-hosted and publicly viewable
 - GitHub Pages deployment
+- Shows real project learning and problem-solving
 
 ## 🚀 Technologies Used
 - HTML5
@@ -18,9 +19,5 @@ This is a responsive front-end website built as part of my coursework. It demons
 - Git + GitHub
 - GitHub Pages
 
-## 📁 Structure
 
-## 👨‍🎓 Author
-Tul Bahadur Khadka 
-Front-End Course Project – July 2025
-'
+
