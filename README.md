@@ -3,8 +3,7 @@
 This is a responsive front-end website built as part of my coursework. It demonstrates key web development skills using *HTML, **CSS (Flexbox & Grid), and **JavaScript*.
 
 ## 🔗 Live Demo
-👉 [View the Live Website](https://github.com/Tulkhadka222/https-Tulkhadka222.github.io-student-project-/tree/main)
-
+👉 [View the Live Website](https://tulkhadka222.github.io/https-Tulkhadka222.github.io-student-project-/)
 ## 💻 Features
 - Responsive layout with CSS Grid and Flexbox
 - Semantic HTML markup
